@@ -22,3 +22,4 @@ at this point 3 might not always be pretty. Keep in mind I just took xml from de
 4.2 change output dir
 4.3 read arbitrary number of words separated by spaces
 5. gui
+6. provide better install instructions for newbies.
